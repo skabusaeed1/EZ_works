@@ -1,36 +1,38 @@
-import { BsGraphUpArrow, BsCameraReels, BsTranslate, BsClipboard2Data } from "react-icons/bs";
-import { MdOutlineDesignServices } from "react-icons/md";
-import { TbDeviceAnalytics } from "react-icons/tb";
-
+import image1 from './images/Research@4x-5.png'
+import image2 from './images/Research@4x-2.png'
+import image3 from './images/Research@4x-1.png'
+import image4 from './images/Research@4x-4.png'
+import image5 from './images/Research@4x.png'
+import image6 from './images/Research@4x-3.png'
 
 export const Data = [
   {
-     icon: <TbDeviceAnalytics/>,
+     icon: image1,
      title: "Presentation Design",
      text:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, voluptatum voluptates voluptatem." 
   },
   {
-     icon: <BsCameraReels/>,
+     icon: image2,
      title: "Audio-Visual Production",
     text:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, voluptatum voluptates voluptatem." 
   },
   { 
-    icon: <BsTranslate/>, 
+    icon: image3, 
     title: "Translation Services", 
     text:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, voluptatum voluptates voluptatem." 
   },
   { 
-    icon: <TbDeviceAnalytics/>,
+    icon: image4,
     title: "Graphic Design", 
     text:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, voluptatum voluptates voluptatem."
   },
   { 
-    icon: <BsGraphUpArrow/>, 
+    icon: image5, 
     title: "Research & Analytics", 
     text:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, voluptatum voluptates voluptatem."
    },
   { 
-    icon: <BsClipboard2Data/>,
+    icon: image6,
     title: "Data Processing",
     text:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum, voluptatum voluptates voluptatem."
    }

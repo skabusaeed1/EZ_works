@@ -1,6 +1,6 @@
 .grid_container{
     display: flex;
-    gap: 10px;
+    gap: 10%;
 }
 
 .grid_icon{
@@ -10,7 +10,8 @@
 .grid_title{
     font-weight: 700;
     color: #3CC3F1;
-    font-size: 20px;
+    font-size: 18px;
+    text-align: left;
 }
 .Grid_box{
     background-color: rgb(17, 41, 73);
@@ -24,6 +25,7 @@
 .grid_text{
     font-weight: 500;
     margin-top: 10px;
+    text-align: left;
 }
 
 @media (max-width: 480px) {
