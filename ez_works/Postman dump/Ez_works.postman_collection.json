@@ -1,0 +1,180 @@
+{
+	"info": {
+		"_postman_id": "9faccedf-2bc7-48a0-85e2-20ece0352d85",
+		"name": "Ez_works",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26752449"
+	},
+	"item": [
+		{
+			"name": "http://3.228.97.110:9000/api",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"bhavya@abc.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://3.228.97.110:9000/api",
+					"protocol": "http",
+					"host": [
+						"3",
+						"228",
+						"97",
+						"110"
+					],
+					"port": "9000",
+					"path": [
+						"api"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "http://3.228.97.110:9000/api",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"bhavya@abc.com\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://3.228.97.110:9000/api",
+							"protocol": "http",
+							"host": [
+								"3",
+								"228",
+								"97",
+								"110"
+							],
+							"port": "9000",
+							"path": [
+								"api"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Mon, 11 Sep 2023 12:37:58 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "43"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"form submitted\",\n    \"success\": true\n}"
+				}
+			]
+		},
+		{
+			"name": "http://3.228.97.110:9000/api",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"bhavya@ez.works\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://3.228.97.110:9000/api",
+					"protocol": "http",
+					"host": [
+						"3",
+						"228",
+						"97",
+						"110"
+					],
+					"port": "9000",
+					"path": [
+						"api"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "http://3.228.97.110:9000/api",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"bhavya@ez.works\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://3.228.97.110:9000/api",
+							"protocol": "http",
+							"host": [
+								"3",
+								"228",
+								"97",
+								"110"
+							],
+							"port": "9000",
+							"path": [
+								"api"
+							]
+						}
+					},
+					"status": "Unprocessable Entity",
+					"code": 422,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Mon, 11 Sep 2023 11:22:37 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "28"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"detail\": \"Incorrect Email\"\n}"
+				}
+			]
+		}
+	]
+}
