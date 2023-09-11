@@ -1,0 +1,235 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* gap: 20px; */
+    padding: 20px;
+    margin-top: 256px;
+    margin-bottom: 276px;
+  }
+  .left_section {
+    padding: 20px;
+  }
+  .logo {
+    max-width: 60%;
+    height: auto;
+  }
+  .container_heading{
+    margin-top: 30px;
+    font-size: 2rem;
+    color: #112949;
+  }
+  .container_text{
+    margin: 40px 0 20px 0;
+    font-weight: 500;
+    font-size: 25px;
+    color: #112949;
+    width: 90%;
+  }
+  input{
+    width: 60%;
+    font-size: large;
+    padding: 20px 10px 20px 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    color: #ABABAB;
+    border: 1px solid #ABABAB;
+  }
+  
+  button {
+    width: 20%;
+    padding: 20px 10px 20px 10px;
+    font-size: 22px;
+    animation: ease all 2s;
+    background-color: #EA7B2C;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+  }  
+  button:hover{
+    cursor: pointer;
+  }
+  .error{
+    color: red;
+    font-weight: 500;
+  }
+  .success{
+    color: green;
+    font-weight: 500;
+  }
+  .right_section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+  }
+  .form_div_2{
+    display: none;
+  }
+
+
+  @media (max-width: 480px) {
+
+    .container{
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      margin-top: 5%;
+      margin-bottom: 5%;
+    }
+    .left_section{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .container_text{
+      text-align: center;
+    }
+    .container_heading{
+      text-align: center;
+    }
+    .img_container{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+    }
+  
+    form{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      row-gap: 10px;
+      align-items: center;
+    }
+    input{
+      width: 100%;
+      /* padding: 10px; */
+    }
+    button{
+      width: 50%;
+      font-size: 25px;
+      margin: 5px;
+    }  
+    .right_section {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      gap: 30px;
+      }
+    .form_div_1{
+      display: none;
+    }
+    .form_div_2{
+      display: block;
+      margin-top: 5%;
+    }
+  }
+  
+  
+  @media (min-width: 481px) and (max-width: 720px) {
+  
+    .container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+      }
+    
+      .left_section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .img_container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+      }
+      .container_text{
+        text-align: center;
+      }
+      .container_heading{
+        text-align: center;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        row-gap: 10px;
+        align-items: center;
+      }
+    
+      input {
+        width: 80%;
+        padding: 20px;
+      }
+    
+      button {
+        width: 30%;
+        font-size: 30px;
+    
+      }
+    
+      .input_container input[type="text"]::placeholder {
+        font-size: 20px;
+      }
+    
+      .right_section {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+      }
+    
+  }
+  
+  
+  @media (min-width: 721px) and (max-width: 1080px) {
+  
+    .container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+      }
+    
+      .left_section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .img_container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+      }
+      .container_text{
+        text-align: center;
+      }
+      .container_heading{
+        text-align: center;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        row-gap: 10px;
+        align-items: center;
+      }
+    
+      input {
+        width: 80%;
+        padding: 20px;
+      }
+    
+      button {
+        width: 30%;
+        font-size: 30px;
+    
+      }
+    
+      .input_container input[type="text"]::placeholder {
+        font-size: 20px;
+      }
+    
+      .right_section {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;
+      }
+    
+  }
