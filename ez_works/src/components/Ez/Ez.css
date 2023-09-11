@@ -2,11 +2,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 30px;
-    /* margin-top: 256px;
-    margin-bottom: 276px; */
     align-items: center;
-    height: 90vh;
-    /* justify-content: center; */
+    justify-content: center;
+    height: 100vh;
   }
   .left_section {
     padding-bottom: 20px;
@@ -185,6 +183,7 @@
     .container {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
+        height: 100%;
       }
     
       .left_section {
