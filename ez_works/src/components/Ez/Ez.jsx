@@ -1,6 +1,5 @@
 import React from 'react'
 import './Ez.css'
-import {useState} from 'react'
 import {Data} from '../../Data'
 import Gridbox from '../Gridbox/Gridbox'
 import Input from '../Input/Input'
