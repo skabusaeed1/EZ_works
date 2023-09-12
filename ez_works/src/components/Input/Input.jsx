@@ -10,10 +10,16 @@ const Input = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    
+
     // Front-end validation
     if (!email) {
       setError('Email is required');
+      return;
+    }
+
+    // Check if the email ends with "@ez.works" and show a custom error message
+    if (email.endsWith('@ez.works')) {
+      setError('Email ends with ez.works are not allowed');
       return;
     }
 
@@ -22,22 +28,23 @@ const Input = () => {
       return;
     }
 
-    // API Integration
+
+    // API Integration using Axios
     try {
-      const response = await axios.post('http://3.228.97.110:9000/api', {email},{
-       
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      });
-      console.log(response.data)
+      const response = await axios.post(
+        'http://3.228.97.110:9000/api',
+        { email },
+        {
+          headers: {
+            'Content-Type': 'application/json',
+          },
+        }
+      );
 
       if (response.status === 200) {
         setSuccessMessage('Form Submitted');
         setError('');
         setEmail('')
-      } else if (response.status === 422) {
-        setError('Email ends with @ez.works');
       } else {
         setError('An error occurred');
       }
@@ -65,8 +72,10 @@ const Input = () => {
           />
           <button>Contact Me</button>
         </form>
+          <div className='message'>
           {error && <p className="error">{error}</p>}
           {successMessage && <p className="success">{successMessage}</p>}
+          </div>
       </div>
     </div>
   )
