@@ -56,3 +56,15 @@ Feel free to explore the code, customize the styling, and adapt the project to y
 
 ![Screenshot (102)](https://github.com/skabusaeed1/EZ_works/assets/125902584/64cf8fd1-8499-4a11-8f08-46b740ff66cc)
 <h3 align='center'>Mobile View</h3>
+
+
+
+
+![Screenshot (103)](https://github.com/skabusaeed1/EZ_works/assets/125902584/14db6b89-1143-4ca6-ba97-4f7542a3ec62)
+
+![Screenshot (104)](https://github.com/skabusaeed1/EZ_works/assets/125902584/494929a1-dbb2-40e7-8873-e3348440a871)
+
+![Screenshot (105)](https://github.com/skabusaeed1/EZ_works/assets/125902584/b1c38038-806e-4ad3-bd02-906dc5943618)
+
+![Screenshot (106)](https://github.com/skabusaeed1/EZ_works/assets/125902584/1a5e7a77-1e1a-4599-b5ed-314a653e0b29)
+
