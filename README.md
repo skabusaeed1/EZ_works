@@ -45,26 +45,16 @@ Feel free to explore the code, customize the styling, and adapt the project to y
 
 ## Screenshots
 
-![Screenshot (99)](https://github.com/skabusaeed1/EZ_works/assets/125902584/d026dc73-61db-4a06-abd2-1146f93c2167)
+![Screenshot (103)](https://github.com/skabusaeed1/EZ_works/assets/125902584/14db6b89-1143-4ca6-ba97-4f7542a3ec62)
 <h3 align='center'>Desktop View</h3>
 
-![Screenshot (100)](https://github.com/skabusaeed1/EZ_works/assets/125902584/51fd6d43-8087-4575-ab8a-a22e07381056)
+![Screenshot (104)](https://github.com/skabusaeed1/EZ_works/assets/125902584/494929a1-dbb2-40e7-8873-e3348440a871)
 <h3 align='center'>Tap View</h3>
 
-![Screenshot (101)](https://github.com/skabusaeed1/EZ_works/assets/125902584/598842de-a49d-49d7-ab45-3cb5799e5625)
-<h3 align='center'>Mobile View</h3>
-
-![Screenshot (102)](https://github.com/skabusaeed1/EZ_works/assets/125902584/64cf8fd1-8499-4a11-8f08-46b740ff66cc)
-<h3 align='center'>Mobile View</h3>
-
-
-
-
-![Screenshot (103)](https://github.com/skabusaeed1/EZ_works/assets/125902584/14db6b89-1143-4ca6-ba97-4f7542a3ec62)
-
-![Screenshot (104)](https://github.com/skabusaeed1/EZ_works/assets/125902584/494929a1-dbb2-40e7-8873-e3348440a871)
-
 ![Screenshot (105)](https://github.com/skabusaeed1/EZ_works/assets/125902584/b1c38038-806e-4ad3-bd02-906dc5943618)
+<h3 align='center'>Mobile View</h3>
 
 ![Screenshot (106)](https://github.com/skabusaeed1/EZ_works/assets/125902584/1a5e7a77-1e1a-4599-b5ed-314a653e0b29)
+<h3 align='center'>Mobile View</h3>
+
 
