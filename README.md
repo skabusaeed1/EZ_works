@@ -51,8 +51,9 @@ Feel free to explore the code, customize the styling, and adapt the project to y
 ![Screenshot (112)](https://github.com/skabusaeed1/EZ_works/assets/125902584/cf467659-ad94-4865-86b6-e86c09003643)
 <h2>Tab View</h2>
 
-![Screenshot (105)](https://github.com/skabusaeed1/EZ_works/assets/125902584/b1c38038-806e-4ad3-bd02-906dc5943618)
+![Screenshot (115)](https://github.com/skabusaeed1/EZ_works/assets/125902584/04ddb6e2-3e21-493a-b0c5-009bf839c694)
 <h2>Mobile View</h2>
 
-![Screenshot (108)](https://github.com/skabusaeed1/EZ_works/assets/125902584/27bd62c5-3f5c-495e-81d8-00d9aa0d19bd)
-<h2 >Mobile View</h2>
+![Screenshot (116)](https://github.com/skabusaeed1/EZ_works/assets/125902584/38e6599f-cee4-464e-a9e6-09b38ec8d07d)
+<h2>Mobile View</h2>
+
