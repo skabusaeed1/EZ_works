@@ -48,7 +48,7 @@ Feel free to explore the code, customize the styling, and adapt the project to y
 ![Screenshot (103)](https://github.com/skabusaeed1/EZ_works/assets/125902584/14db6b89-1143-4ca6-ba97-4f7542a3ec62)
 <h2 align='center'>Desktop View</h2>
 
-![Screenshot (110)](https://github.com/skabusaeed1/EZ_works/assets/125902584/17d29290-2738-4eab-bb50-78fef5714a09)
+![Screenshot (112)](https://github.com/skabusaeed1/EZ_works/assets/125902584/cf467659-ad94-4865-86b6-e86c09003643)
 <h2>Tab View</h2>
 
 ![Screenshot (105)](https://github.com/skabusaeed1/EZ_works/assets/125902584/b1c38038-806e-4ad3-bd02-906dc5943618)
