@@ -46,15 +46,15 @@ Feel free to explore the code, customize the styling, and adapt the project to y
 ## Screenshots
 
 ![Screenshot (103)](https://github.com/skabusaeed1/EZ_works/assets/125902584/14db6b89-1143-4ca6-ba97-4f7542a3ec62)
-<h3 align='center'>Desktop View</h3>
+<h1 align='center'>Desktop View</h1>
 
 ![Screenshot (104)](https://github.com/skabusaeed1/EZ_works/assets/125902584/494929a1-dbb2-40e7-8873-e3348440a871)
-<h3 align='center'>Tap View</h3>
+<h1 align='center'>Tap View</h1>
 
 ![Screenshot (105)](https://github.com/skabusaeed1/EZ_works/assets/125902584/b1c38038-806e-4ad3-bd02-906dc5943618)
-<h3 align='center'>Mobile View</h3>
+<h1 align='center'>Mobile View</h1>
 
 ![Screenshot (106)](https://github.com/skabusaeed1/EZ_works/assets/125902584/1a5e7a77-1e1a-4599-b5ed-314a653e0b29)
-<h3 align='center'>Mobile View</h3>
+<h1 align='center'>Mobile View</h1>
 
 
