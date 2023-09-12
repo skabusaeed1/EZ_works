@@ -54,7 +54,5 @@ Feel free to explore the code, customize the styling, and adapt the project to y
 ![Screenshot (105)](https://github.com/skabusaeed1/EZ_works/assets/125902584/b1c38038-806e-4ad3-bd02-906dc5943618)
 <h1>Mobile View</h1>
 
-![Screenshot (106)](https://github.com/skabusaeed1/EZ_works/assets/125902584/1a5e7a77-1e1a-4599-b5ed-314a653e0b29)
+![Screenshot (108)](https://github.com/skabusaeed1/EZ_works/assets/125902584/27bd62c5-3f5c-495e-81d8-00d9aa0d19bd)
 <h1 >Mobile View</h1>
-
-
